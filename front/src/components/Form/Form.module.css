@@ -1,0 +1,8 @@
+.back {
+    /* Background pattern from Toptal Subtle Patterns */
+    background-image: url(./rickandmorty.jpg);
+    width: 100%;
+    height: 500px;
+    object-fit: contain;
+
+ }
